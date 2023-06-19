@@ -1,7 +1,7 @@
 # Habit Tracker
 
 Kelompok 12
-Jamil U, Rifki M.S., Iqbal A.
+Jamil U, Rifki M.S., Iqbal A. ( 2006038 )
 
 untuk lokasi aplikasi: build/app/outputs/flutter-apk/app-release.apk
 
